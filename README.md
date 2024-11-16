@@ -1,2 +1,2 @@
-# orgiasnegrami
+# organizacia
 undserstand
