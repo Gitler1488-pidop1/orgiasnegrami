@@ -1,4 +1,4 @@
-#Создай собственный Шутер!
+ #Создай собственный Шутер!
 
 from pygame import *
 import random
